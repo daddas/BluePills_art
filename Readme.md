@@ -2,7 +2,7 @@ An modified art library source.
 
 Currently works with Android Q.
 
-Method invocation path is inspired by the traditional Xposed frameowork, throught the `artProxyInvocationHandler`
+Method invocation path is inspired by the traditional Xposed frameowork, throught the proxyinvokation approach
 
 Might be integrated to higher or lower versions.
 
